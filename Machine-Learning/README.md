@@ -1,9 +1,21 @@
-# Machine Learning
+# Machine Learning Portfolio
 
-Machine learning applications in
+## Overview
 
-- Fraud Detection
+This repository documents my learning journey and practical applications of machine learning for research, fraud detection, survey analytics, and development policy.
+
+The portfolio includes projects on:
+
 - Classification
-- Prediction
-- Data Mining
-- Explainable AI
+- Regression
+- Clustering
+- Feature Engineering
+- Model Evaluation
+
+Future work will include applications to:
+
+- Mobile Money Fraud Detection
+- Financial Inclusion
+- Public Health
+- Agricultural Analytics
+- Monitoring and Evaluation
