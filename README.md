@@ -1,24 +1,50 @@
-# Welcome
+# Daniel Ninsin Quansah
 
-Hello! I'm Daniel Ninsin Quansah.
+Researcher | Statistician | Data Analyst | Monitoring & Evaluation | Machine Learning | Development Policy
 
-I am a Statistician and Research Professional with experience in:
+Welcome to my professional research portfolio.
 
-- Data Analysis
+This repository showcases selected research projects, survey work, policy analysis, data analytics, machine learning applications and monitoring & evaluation experience across Ghana and Sub-Saharan Africa.
+
+## Research Interests
+
 - Monitoring & Evaluation
-- Survey Methodology
-- Development Research
-- Policy Analysis
-- Machine Learning
-- Financial Inclusion Research
-
-This GitHub portfolio showcases selected research projects, analytical workflows, publications, and technical skills developed through work with government institutions, research organisations, NGOs, and consulting projects.
-
-## Areas of Interest
-
-- Development Economics
-- Applied Statistics
-- Data Science
 - Impact Evaluation
-- Machine Learning
+- Development Economics
 - Financial Inclusion
+- Digital Finance
+- Mobile Money
+- Survey Methodology
+- Applied Statistics
+- Machine Learning
+- Public Policy
+- Agricultural Economics
+
+## Current Research
+
+- Mobile Money Fraud Detection using Ensemble Machine Learning
+- Financial Inclusion in Ghana
+- Policy Evaluation using Machine Learning
+- Survey Methodology
+- Development Policy
+
+## Professional Experience
+
+- Ghana Statistical Service
+- Institute of Statistical, Social and Economic Research (ISSER)
+- Innovations for Poverty Action (IPA Ghana)
+- SIA360 Ltd
+- Micro1 AI
+- MyUpdates24
+- Alhaena Research Centre
+
+## Contact
+
+Email:
+danielnquansah@gmail.com
+
+LinkedIn:
+https://linkedin.com/in/daniel-ninsin-quansah-86ba49339
+
+ResearchGate:
+https://www.researchgate.net/profile/Daniel-Quansah-2
