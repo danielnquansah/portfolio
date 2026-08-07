@@ -6,7 +6,7 @@ Innovations for Poverty Action (IPA Ghana)
 
 ## Project Overview
 
-Innovations for Poverty Action (IPA) conducts rigorous field research and randomized evaluations to generate evidence that improves public policy and development programmes.
+Innovations for Poverty Action (IPA) conducts rigorous field research and randomized evaluations to generate evidence that improves public policy and development programmes across sub sahara Africa.
 
 ## My Role
 
@@ -33,6 +33,13 @@ Field Consultant / Data Entry Specialist
 - Microsoft Excel
 - SurveyCTO
 - KoboToolbox
+
+## Research Themes
+
+- Poverty reduction
+- Social programmes
+- Development economics
+- Evidence-based interventions
 
 ## Key Learning Outcomes
 
