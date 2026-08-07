@@ -10,7 +10,7 @@ The Integrated Business Establishment Survey (IBES I & II) is a nationwide stati
 
 ## My Role
 
-Regional Trainer and District Supervisor
+Regional Trainer, District Supervisor and Data Quality Monitor
 
 ## Key Responsibilities
 
