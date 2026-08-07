@@ -35,7 +35,9 @@ Regional Co-ordinator and Field Supervisor
 
 - Household Survey Methodology
 - Longitudinal Survey Management
-- Field Supervision
+- Field Coordination and Supervision
+- Research operations management
+- Community engagement
 - Data Quality Assurance
 - Research Ethics
 - Team Leadership
@@ -43,9 +45,34 @@ Regional Co-ordinator and Field Supervisor
 - Monitoring and Reporting
 - Problem Solving
 
+## Research Methods
+
+- Household surveys
+- Computer-assisted data collection
+- Questionnaire administration
+- Field quality control
+- Survey monitoring
+
+## Tools Used
+
+- SurveyCTO
+- KoboToolbox
+- CSPro
+- Microsoft Excel
+
 ## Key Learning Outcomes
 
 This project strengthened my understanding of longitudinal survey implementation, household data collection, field management, quality assurance procedures, and evidence generation for socioeconomic research and public policy.
+
+## Relevance to Research Interests
+
+This experience strengthened my interest in:
+
+- Evidence-based policymaking
+- Development economics
+- Poverty and inequality measurement
+- Survey methodology
+- Impact evaluation
 
 ---
 
