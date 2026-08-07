@@ -1,50 +1,65 @@
 # Daniel Ninsin Quansah
 
-Researcher | Statistician | Data Analyst | Monitoring & Evaluation | Machine Learning | Development Policy
+Statistician | Researcher | Data Analyst | Monitoring & Evaluation Specialist | Machine Learning Enthusiast
 
 Welcome to my professional research portfolio.
 
-This repository showcases selected research projects, survey work, policy analysis, data analytics, machine learning applications and monitoring & evaluation experience across Ghana and Sub-Saharan Africa.
+I am a researcher with experience in survey methodology, impact evaluation, development policy, market research, data science and machine learning. My work spans collaborations with government institutions, universities, NGOs and private consulting firms across Ghana.
 
 ## Research Interests
 
-- Monitoring & Evaluation
-- Impact Evaluation
-- Development Economics
 - Financial Inclusion
 - Digital Finance
-- Mobile Money
-- Survey Methodology
-- Applied Statistics
+- Development Economics
 - Machine Learning
-- Public Policy
-- Agricultural Economics
-
-## Current Research
-
-- Mobile Money Fraud Detection using Ensemble Machine Learning
-- Financial Inclusion in Ghana
-- Policy Evaluation using Machine Learning
+- Artificial Intelligence
 - Survey Methodology
-- Development Policy
+- Monitoring & Evaluation
+- Public Policy
+- Climate Change
+- Development Finance
 
-## Professional Experience
+## Areas of Expertise
+
+- Statistical Analysis
+- Data Management
+- Survey Research
+- Impact Evaluation
+- Market Research
+- Policy Analysis
+- Power BI
+- Python
+- R
+- Excel
+
+## Organisations Worked With
 
 - Ghana Statistical Service
-- Institute of Statistical, Social and Economic Research (ISSER)
-- Innovations for Poverty Action (IPA Ghana)
+- ISSER, University of Ghana
+- IPA Ghana
 - SIA360 Ltd
-- Micro1 AI
-- MyUpdates24
 - Alhaena Research Centre
+- Ghana Institute of Management and Public Administration (Research)
+- ResearchLime
 
-## Contact
+## Publications
 
-Email:
-danielnquansah@gmail.com
+See the Research-Publications folder.
+
+## Research Projects
+
+See the Research-Projects folder.
+
+## Connect with me
 
 LinkedIn:
-https://linkedin.com/in/daniel-ninsin-quansah-86ba49339
+https://www.linkedin.com/in/daniel-ninsin-quansah-86ba49339/
+
+Google Scholar:
+https://scholar.google.com/citations?user=JfPhk9gAAAAJ
+
+ORCID:
+https://orcid.org/0009-0005-8924-5024
 
 ResearchGate:
 https://www.researchgate.net/profile/Daniel-Quansah-2
