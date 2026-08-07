@@ -1,14 +1,33 @@
-**Projects:**
+# Cocoa Sector Child Labour Monitoring System
 
-Cocoa Sector Child Labour Monitoring System
+## Organisation
+SIA360 Ltd
 
-**Role:**
+## Role
+Enumerator / Field Research Assistant
 
-Zonal Supervisor
+## Project Overview
+This project focused on monitoring child labour risks within cocoa-producing communities in Ghana.
 
-**Contribution:**
-- Reviewed digital data collection instruments
-- Conducted household enumeration
-- Tracked cocoa farm locations
-- Submitted daily field reports
-- Exceeded assigned cocoa plot targets by over 10%
+## Responsibilities
+
+- Conducted household-level interviews
+- Collected farmer and community information
+- Used digital data collection tools
+- Verified GPS and location information
+- Submitted daily field updates
+
+## Research Methods
+
+- Household surveys
+- Field observation
+- Digital data collection
+- Quality assurance checks
+
+## Skills Demonstrated
+
+- Survey research
+- Data collection
+- Field coordination
+- Research ethics
+- Data quality management
