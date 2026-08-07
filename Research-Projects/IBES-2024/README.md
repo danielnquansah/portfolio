@@ -25,17 +25,27 @@ Regional Trainer, District Supervisor and Data Quality Monitor
 - Prepared field monitoring reports.
 - Coordinated communication between field teams and regional coordinators.
 
+## Research Areas
+
+- Business statistics
+- Economic measurement
+- Informal sector analysis
+- Enterprise development
+
 ## Skills Applied
 
 - Survey Sampling
-- Data Collection
 - Field Supervision
 - Quality Assurance
 - Data Management
 - Statistical Survey Methods
-- Team Leadership
+- Team Leadership and coordination
 - Research Ethics
 - Problem Solving
+- Research leadership
+- Training facilitation
+- Statistical data collection
+- Official statistics production
 
 ## Tools Used
 
@@ -43,6 +53,10 @@ Regional Trainer, District Supervisor and Data Quality Monitor
 - Microsoft Excel
 - GPS-enabled field devices
 - Google Workspace
+- Digital data collection platforms
+- Survey sampling procedures
+- Quality assurance frameworks
+- Field monitoring systems
 
 ## Key Learning Outcomes
 
